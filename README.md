@@ -1,4 +1,4 @@
-
+转载请注明出处：http://blog.csdn.net/zhaodai11?viewmode=contents
 
 Binder是Android系统独有的一种IPC通信机制，贯穿在整个Android系统中。
 
